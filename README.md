@@ -25,6 +25,9 @@
 
 ![My Screenshot](screenshots/Screenshot%20from%202026-09-25%2011-26-34.png)
 
+### Video
+[![Watch the navigation demo video](screenshots/Screenshot%20from%202026-09-25%2011-26-34.png)](screenshots/Screencast%20from%2009-25-2026%2010_18_53%20AM.mp4)
+
 ## Contact Info 
  - Name: Karv Amin
  - Contact number: 9586866647
