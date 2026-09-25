@@ -7,7 +7,7 @@
 4. The name in the yaml file of the map mismatched with the name of the pgm image, I couldn't find any more bugs after this.
 
 
-### 2. Setting up the map loader script
+### 2. Setting up the map loader launch file
 1. As I couldn't use the nav2_bringup, I made a launch file that uses the nav2 map_server node to launch the testbed_world map. I followed the instructions and named it map_loader.launch.py.
 2. In rviz , I would have to change it settings to transient_local and type map into fixed frame to visualize it because without amcl the odom to map tf connection isn't developed yet. Then map would be visible in rviz.
 
