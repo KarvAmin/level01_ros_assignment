@@ -40,7 +40,7 @@ amcl:
     scan_topic: "scan"
 
     # Set to false so AMCL waits for 2D Pose Estimate in RViz
-    set_initial_pose: false
+    # set_initial_pose: false
     set_initial_pose: true
     initial_pose:
       x: 1.555
