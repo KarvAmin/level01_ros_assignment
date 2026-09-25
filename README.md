@@ -20,7 +20,7 @@
 
 ### 4. Navigation
 1. For navigation I made a nav2_prarams.yaml file describing the robot's parameters properly. I only kept those servers in the yaml that i felt were absolutely necessary to make the robot navigate properly.
-2. Then I made a nav2.lauch.py launch file launching those exact same nodes and a lifecycle manager node to manage them. On launching the nav2 seemed to work properly.
+2. Then I made a navigation.launch.py launch file launching those exact same nodes and a lifecycle manager node to manage them. On launching the nav2 seemed to work properly.
 ![My Screenshot](screenshots/Screenshot%20from%202026-09-25%2011-26-17.png)
 
 ![My Screenshot](screenshots/Screenshot%20from%202026-09-25%2011-26-34.png)
