@@ -5,7 +5,6 @@
 2. Afterwards I colcon build it, while doing this I encountered a missing parenthesis error in cmakelists.txt of testbed_description package in the last line.
 3. Then while trying to run the robot bringup I found one ros1 control plugin being used in testbed.gazebo in urdf and one more indentation error in the same file in the imu_link_1 's orientation reference.
 4. The name in the yaml file of the map mismatched with the name of the pgm image, I couldn't find any more bugs after this.
-   ```
 
 ### 2. Setting up the map loader script
 1. As I couldnt use the nav2_bringup, I made a launch file that uses the nav2 map_server node to launch the testbed_world map. I followed the instructions and named it map_loader.launch.py.
