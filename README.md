@@ -25,7 +25,7 @@
 ### 4. Navigation
 1. For navigation I made a nav2_prarams.yaml file describing the robot's parameters properly. I only kept those servers in the yaml that i felt were absolutely necessary to make the robot navigate properly.
 2. Then I made a navigation.launch.py launch file launching those exact same nodes and a lifecycle manager node to manage them. On launching the nav2 seemed to work properly.
-3. Then I gave the 2d goal pose, the robot seemed to operate normally. In the navigation panel both localization and navigation seemed to be working fine without any issues.
+3. Then I gave the 2d goal pose, the robot seemed to operate normally. In the navigation panel both localization and navigation seemed to be working properly.
 
 ![My Screenshot](screenshots%20and%20video/Screenshot%20from%202026-09-25%2011-26-17.png)
 
